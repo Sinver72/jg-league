@@ -1,0 +1,19 @@
+{
+  "name": "jglg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "league.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "node-fetch": "^3.3.2"
+  }
+}
